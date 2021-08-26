@@ -2,7 +2,7 @@
     "products": [
     {
         "id": 1,
-        "name": "Macbook Air M1",
+        "name": "iPhone 12 Pro",
         "description": "Made by code with bishal",
         "price": 9999,
         "color": "#33505a",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "name": "Macbook Air M1",
+        "name": "Google Pixel 5",
         "description": "Made by code with bishal",
         "price": 9999,
         "color": "#33505a",
@@ -29,7 +29,7 @@
     },
     {
         "id": 4,
-        "name": "Macbook Air M1",
+        "name": "PS 5",
         "description": "Made by code with bishal",
         "price": 9999,
         "color": "#33505a",
@@ -38,7 +38,7 @@
     },
     {
         "id": 5,
-        "name": "Macbook Air M1",
+        "name": "iPhone 12 Pro",
         "description": "Made by code with bishal",
         "price": 9999,
         "color": "#33505a",
